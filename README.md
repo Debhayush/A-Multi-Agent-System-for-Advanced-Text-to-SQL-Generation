@@ -1,6 +1,6 @@
 # AI Agent for Text-to-SQL
 
-**Author**: Debhayush Nandy  
+**Name**: Debhayush Nandy  
 **University**: IIT Kharagpur  
 **Department**: Metallurgical and Materials Engineering  
 
